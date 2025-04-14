@@ -1,0 +1,101 @@
+id,rut,nombre,email,ciudad,region,pais,fecha_registro,activo
+1,22441152-3,Allison Hill,jillrhodes@miller.com,Santiago,Región Metropolitana,Chile,2023-10-11,True
+2,19906820-0,Alyssa Gonzalez,shaneramirez@gmail.com,Santiago,Región Metropolitana,Chile,2024-11-23,True
+3,18478454-8,Melissa Peterson,susanrogers@james.com,Córdoba,Córdoba,Argentina,2024-07-25,True
+4,13698379-4,Andrew Stevens,smiller@montgomery.com,Porto Alegre,Rio Grande do Sul,Brasil,2023-05-19,True
+5,15708456-3,Patricia Galloway,jamesshawn@martin-kelly.com,Mendoza,Mendoza,Argentina,2024-10-10,True
+6,16374122-K,Maria Lynch,frankgray@watts.com,Santiago,Región Metropolitana,Chile,2023-10-08,True
+7,23541365-K,Renee Morales,robinbradley@edwards.info,Belo Horizonte,Minas Gerais,Brasil,2023-08-02,False
+8,16350753-K,David Hoffman,zhurst@yahoo.com,São Paulo,São Paulo,Brasil,2023-10-01,True
+9,19686361-1,Brenda Snyder PhD,courtneyconner@carlson-cruz.org,Belo Horizonte,Minas Gerais,Brasil,2024-04-11,True
+10,11338687-1,Tricia Valencia,maldonadoamanda@mack-peterson.com,Rosario,Santa Fe,Argentina,2024-03-16,False
+11,20665015-2,Aaron Bowen,williamrodriguez@hotmail.com,Sevilla,Andalucía,España,2023-12-01,True
+12,21243673-1,Katie Gonzalez,amberosborne@hotmail.com,Barcelona,Cataluña,España,2025-03-27,True
+13,12741438-4,Fred Smith,john39@gmail.com,Rio de Janeiro,Rio de Janeiro,Brasil,2023-06-19,True
+14,13842788-5,Rose Spence,donnaarroyo@baker.biz,Madrid,Comunidad de Madrid,España,2023-09-25,False
+15,13539704-9,Nicole Vaughn,pcarney@yahoo.com,Madrid,Comunidad de Madrid,España,2024-03-19,True
+16,16637601-7,Jocelyn Wright,andrew83@robinson.com,Mendoza,Mendoza,Argentina,2023-06-05,True
+17,14137722-8,Shannon Jones,elizabeth38@cummings.org,Barcelona,Cataluña,España,2024-04-15,True
+18,19790057-3,John Russell,hopkinsmichael@owens-daniel.com,Porto Alegre,Rio Grande do Sul,Brasil,2023-05-31,True
+19,11525206-1,Gerald Hensley,jameswest@white-ford.com,Porto Alegre,Rio Grande do Sul,Brasil,2024-03-23,True
+20,20006083-K,Savannah Garcia,housemelinda@russell.com,Mendoza,Mendoza,Argentina,2025-02-13,False
+21,18877065-8,Anthony Gray,sara74@yahoo.com,Porto Alegre,Rio Grande do Sul,Brasil,2024-10-06,True
+22,22894946-1,Whitney Peters,jamesrobinson@gmail.com,Concepción,Región del Biobío,Chile,2024-07-06,True
+23,17612220-K,Amy Edwards,hshaw@brown.com,Guadalajara,Jalisco,México,2025-02-03,True
+24,18517485-4,Kurt Leonard,kwilson@riley.org,Rio de Janeiro,Rio de Janeiro,Brasil,2023-06-16,True
+25,22792808-8,Kevin Mills,elizabethedwards@yahoo.com,Rosario,Santa Fe,Argentina,2024-02-15,True
+26,18197443-K,Matthew Bryant,ellisyolanda@jones.net,Belo Horizonte,Minas Gerais,Brasil,2023-11-05,True
+27,10971823-9,Gregory Jones,justin78@turner.net,Barcelona,Cataluña,España,2023-04-20,True
+28,23690598-K,Kristen Huynh,josephpreston@tran.com,Puerto Montt,Región de Los Lagos,Chile,2023-09-19,True
+29,19224173-8,Sarah Wagner,davisrodney@yahoo.com,Mendoza,Mendoza,Argentina,2023-05-18,False
+30,21961298-5,Ray Walsh,joycearnold@yahoo.com,Córdoba,Córdoba,Argentina,2024-06-22,False
+31,12030113-1,Benjamin Ware,davenportbrandi@jordan.com,Porto Alegre,Rio Grande do Sul,Brasil,2024-01-22,True
+32,19872386-1,Rebecca Valencia,evelynestrada@yahoo.com,Valparaíso,Región de Valparaíso,Chile,2024-12-09,True
+33,10527021-1,Shelly Dickson,michellecherry@keith.com,Buenos Aires,Buenos Aires,Argentina,2024-11-06,True
+34,13594297-9,Rachel Jenkins,erik16@garrison.com,Sevilla,Andalucía,España,2025-01-07,False
+35,23547551-1,Hannah Hoover,andrewlee@ramirez-jones.com,Mendoza,Mendoza,Argentina,2024-01-11,True
+36,17106470-0,Jennifer Zavala,wilsontara@gmail.com,Monterrey,Nuevo León,México,2024-07-07,True
+37,22217396-1,Deborah Rodriguez,jessica56@hotmail.com,Puerto Montt,Región de Los Lagos,Chile,2024-05-15,True
+38,18997381-6,Steven Lee,zsmith@mcdaniel.com,Córdoba,Córdoba,Argentina,2024-01-21,True
+39,14191056-1,Travis Mccall,cortezkevin@yahoo.com,Sevilla,Andalucía,España,2024-09-12,False
+40,10848731-8,James Phillips,robertbentley@adkins.biz,São Paulo,São Paulo,Brasil,2024-06-12,True
+41,12790237-7,Elizabeth Clark,rramos@gmail.com,Valparaíso,Región de Valparaíso,Chile,2024-05-15,True
+42,12762152-6,Steven Flynn,campbellelizabeth@rogers.com,Ciudad de México,CDMX,México,2023-10-05,True
+43,17096887-8,Brittany Williams,gibsonolivia@hotmail.com,Monterrey,Nuevo León,México,2023-09-12,False
+44,14977931-0,Janet Ross,staffordmichelle@osborne.com,Córdoba,Córdoba,Argentina,2024-12-28,True
+45,10841248-8,Kelly Williams,bryantlaurie@schmidt.info,Madrid,Comunidad de Madrid,España,2024-08-01,True
+46,24283157-9,Stephanie Simmons,juliawells@yahoo.com,Santiago,Región Metropolitana,Chile,2024-11-17,True
+47,12011363-9,Mark Cannon,joshuajones@yahoo.com,Mendoza,Mendoza,Argentina,2023-10-13,True
+48,20391497-K,Francisco Fernandez,jessebenson@lewis.info,São Paulo,São Paulo,Brasil,2024-03-01,True
+49,21236137-3,Ross Price,wwoods@molina-castaneda.biz,Barcelona,Cataluña,España,2024-06-05,True
+50,21269091-7,Kimberly Morrison,brobinson@johnson-rogers.biz,Guadalajara,Jalisco,México,2024-10-27,True
+51,17688755-9,John Anderson,qvargas@miller.com,Santiago,Región Metropolitana,Chile,2025-02-15,True
+52,18487336-5,Anthony Gray,wmurphy@ramirez-bean.biz,Valparaíso,Región de Valparaíso,Chile,2023-10-26,True
+53,14781295-8,Julie Curry,jeffrey10@herring.com,Rosario,Santa Fe,Argentina,2024-08-08,True
+54,21204885-4,Cameron Caldwell,xlyons@jackson-lawson.com,São Paulo,São Paulo,Brasil,2024-12-08,True
+55,11936571-8,Traci Rodriguez,barbara66@gonzalez.com,Rosario,Santa Fe,Argentina,2023-07-02,True
+56,20147360-5,Elizabeth Sutton,reedross@jones-holland.com,Valencia,Comunidad Valenciana,España,2025-02-01,True
+57,14213115-0,John Hamilton,bzimmerman@gmail.com,Sevilla,Andalucía,España,2024-11-03,True
+58,10739653-K,Marie Gilbert,ugraham@hotmail.com,Monterrey,Nuevo León,México,2023-11-08,True
+59,22435791-6,David Michael,dsanchez@hotmail.com,Barcelona,Cataluña,España,2024-07-31,True
+60,24816066-2,Gabrielle Snyder,tonykelly@yahoo.com,Santiago,Región Metropolitana,Chile,2024-01-03,True
+61,17210624-4,Kyle Beard,christophercortez@peters-allen.info,Barcelona,Cataluña,España,2024-08-27,True
+62,13524499-1,Joan Smith,richardsanchez@hotmail.com,Concepción,Región del Biobío,Chile,2024-07-08,True
+63,20412972-3,Juan Cooper,jacqueline44@yahoo.com,Porto Alegre,Rio Grande do Sul,Brasil,2023-10-10,True
+64,10415846-5,Corey Wilson,javierwashington@lawrence.com,Mendoza,Mendoza,Argentina,2025-01-19,False
+65,12670896-1,Darren White,joshuamccann@carter.info,Rosario,Santa Fe,Argentina,2023-07-02,False
+66,13731818-7,Laura Harrison,jack04@yahoo.com,Puerto Montt,Región de Los Lagos,Chile,2023-07-11,True
+67,13740036-K,Jennifer Jones,edwardhart@miller-wright.net,Barcelona,Cataluña,España,2024-11-27,True
+68,14674183-4,Kyle Montgomery,tkerr@hotmail.com,Monterrey,Nuevo León,México,2024-03-12,True
+69,21400422-8,Marc Lynch,colleenbaker@moore.net,Porto Alegre,Rio Grande do Sul,Brasil,2023-06-11,True
+70,24714262-2,Jason Norris,antonio44@hotmail.com,Santiago,Región Metropolitana,Chile,2025-02-09,True
+71,20008804-5,Michael Bradshaw,owilson@hernandez.com,Santiago,Región Metropolitana,Chile,2023-08-20,False
+72,16462506-3,Linda Holloway,smartinez@yahoo.com,São Paulo,São Paulo,Brasil,2024-10-08,True
+73,10028374-8,Dillon Fernandez,georgepamela@hotmail.com,Puerto Montt,Región de Los Lagos,Chile,2023-12-20,True
+74,11173965-5,Allison Perez,barbara27@pearson.org,Sevilla,Andalucía,España,2024-03-17,True
+75,18508103-6,Katherine Davis,qcook@gmail.com,Concepción,Región del Biobío,Chile,2025-02-08,True
+76,19301497-6,Jason Simpson,gibsonleonard@yahoo.com,Monterrey,Nuevo León,México,2023-07-13,False
+77,16812810-0,Jennifer Robertson,mgutierrez@cox.com,Rosario,Santa Fe,Argentina,2023-09-19,True
+78,17212326-9,Carlos Roberts,johnsoncrystal@gmail.com,Barcelona,Cataluña,España,2024-10-16,True
+79,17418210-8,Juan Tran,victoriadurham@valentine-holland.com,Cancún,Quintana Roo,México,2024-05-05,False
+80,14761145-9,Dorothy Thornton,pbaird@yahoo.com,Buenos Aires,Buenos Aires,Argentina,2024-06-15,True
+81,21287638-3,Connor Greene,hillkristy@morgan-french.com,Valparaíso,Región de Valparaíso,Chile,2025-01-10,True
+82,14107776-9,Nicholas Monroe,seanwashington@yahoo.com,Santiago,Región Metropolitana,Chile,2024-06-15,True
+83,24866910-3,Jamie Cantu,ashleyhall@williams-garner.biz,Cancún,Quintana Roo,México,2024-02-07,False
+84,14093379-0,Rebecca Pearson MD,waynelawrence@sawyer.com,Cancún,Quintana Roo,México,2024-05-26,True
+85,12950888-8,Alexis Thomas,harrisontanya@hanson-sanders.com,Guadalajara,Jalisco,México,2025-02-03,False
+86,24232722-2,Michael Ferguson,cbrennan@hotmail.com,Valparaíso,Región de Valparaíso,Chile,2023-06-06,False
+87,22670992-9,Michael Mitchell,hamiltoncorey@padilla.com,Belo Horizonte,Minas Gerais,Brasil,2025-03-15,False
+88,12670226-7,Frederick Brown,ryan38@yahoo.com,Porto Alegre,Rio Grande do Sul,Brasil,2024-06-26,False
+89,24090561-8,Catherine Thompson,tyleraguilar@gmail.com,Barcelona,Cataluña,España,2024-04-06,False
+90,17379837-K,Julia Estrada,erica21@yahoo.com,Rosario,Santa Fe,Argentina,2024-01-07,True
+91,15634586-8,Elizabeth Hayden DDS,james67@gmail.com,Rosario,Santa Fe,Argentina,2023-10-15,True
+92,13879923-2,Ian Phillips,spencedominique@yahoo.com,Córdoba,Córdoba,Argentina,2023-04-20,True
+93,16838382-7,Melissa Garner,swall@lawson.com,Puerto Montt,Región de Los Lagos,Chile,2024-08-20,False
+94,23973595-9,David Campos,bergerdebbie@kramer-johnson.com,Valparaíso,Región de Valparaíso,Chile,2024-11-02,True
+95,18002392-K,Theodore Murphy,jamesbuchanan@yahoo.com,Porto Alegre,Rio Grande do Sul,Brasil,2024-05-30,True
+96,24318480-6,Denise Martin,julie51@yahoo.com,Sevilla,Andalucía,España,2023-06-11,True
+97,14579094-0,Vincent Dalton,christopher60@yahoo.com,Guadalajara,Jalisco,México,2024-06-03,False
+98,22149747-7,Jacob Curry,xcarson@gmail.com,Sevilla,Andalucía,España,2024-09-19,True
+99,16610562-0,Alexander Henson,deborahreid@yahoo.com,São Paulo,São Paulo,Brasil,2025-03-20,True
+100,24543352-0,Marie Wilson,torrestravis@young.com,Guadalajara,Jalisco,México,2024-02-09,True

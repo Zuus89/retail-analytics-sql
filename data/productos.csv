@@ -1,0 +1,51 @@
+id,sku,ean,nombre,variante,categoria,subcategoria,marca,precio,stock,fecha_ingreso,activo
+1,POC-5506,1043321819608,Tablas SUP POC Tempore,Color Blanco,Sup,Tablas SUP,POC,106000.0,11,2024-10-18,True
+2,JOB-2424,3389083863793,Bombas Jobe Consectetur,Lente Solar,Sup,Bombas,Jobe,58000.0,10,2024-12-06,True
+3,JOB-1434,2654235116159,Cascos Jobe Ab,Color Blanco,Ski,Cascos,Jobe,229000.0,49,2025-03-26,True
+4,CON-8359,9407816184954,Remo Connelly Laborum,141 cm,Sup,Remo,Connelly,252000.0,5,2025-02-02,True
+5,HO-5552,1034131647529,Guantes HO Earum,Color Negro,Ski,Guantes,HO,104000.0,26,2024-12-23,True
+6,KOM-2584,3419283276489,Antiparras Komperdell Libero,120 cm,Ski,Antiparras,Komperdell,262000.0,43,2024-11-24,True
+7,HL-8527,5030564139538,Wakeboards HL Vitae,Talla L,Wake,Wakeboards,HL,293000.0,29,2025-02-17,True
+8,WOW-6925,6724238849692,Bastones WOW Praesentium,Color Blanco,Ski,Bastones,WOW,226000.0,7,2024-12-29,True
+9,WOW-5741,3287101226912,Tablas SUP WOW Magni,Talla L,Sup,Tablas SUP,WOW,264000.0,11,2024-12-26,True
+10,KOM-6977,9784801845145,Chalecos Komperdell Modi,Color Negro,Wake,Chalecos,Komperdell,143000.0,18,2025-01-05,True
+11,HL-2169,7048281489322,Remo HL Dolore,Color Negro,Sup,Remo,HL,184000.0,20,2024-12-24,True
+12,KOM-5422,8809570154302,Guantes Komperdell Dolorem,Color Blanco,Ski,Guantes,Komperdell,221000.0,8,2024-11-28,True
+13,WOW-6168,1171822782487,Antiparras WOW Reiciendis,Lente Solar,Ski,Antiparras,WOW,117000.0,18,2025-03-31,True
+14,HO-4483,6383465787131,Bombas HO Sequi,Talla XL,Sup,Bombas,HO,149000.0,46,2024-11-25,True
+15,HO-3287,5098393010312,Wakeboards HO At,Color Blanco,Wake,Wakeboards,HO,236000.0,39,2025-04-06,True
+16,JOB-8019,5183473829974,Cuerdas Jobe Aliquid,Lente Solar,Wake,Cuerdas,Jobe,140000.0,13,2024-11-29,True
+17,POC-1771,6311656670108,Remo POC Pariatur,Talla L,Sup,Remo,POC,88000.0,15,2024-12-30,True
+18,JOB-2040,1333872624739,Remo Jobe Labore,Lente Solar,Sup,Remo,Jobe,145000.0,34,2025-03-31,True
+19,JOB-1188,7810801326772,Remo Jobe Autem,Talla L,Sup,Remo,Jobe,220000.0,39,2024-11-23,True
+20,HO-2827,0260647468728,Cuerdas HO Natus,141 cm,Wake,Cuerdas,HO,159000.0,34,2024-11-18,True
+21,JOB-3927,3098050097887,Bastones Jobe Impedit,Talla L,Ski,Bastones,Jobe,268000.0,24,2024-11-12,True
+22,JOB-4258,8121913619393,Bombas Jobe Aspernatur,Color Negro,Sup,Bombas,Jobe,143000.0,15,2025-02-05,True
+23,POC-6310,9169985435342,Bombas POC Animi,Talla XL,Sup,Bombas,POC,55000.0,28,2024-12-28,True
+24,POC-4946,4751079911839,Wakeboards POC Delectus,Talla L,Wake,Wakeboards,POC,71000.0,36,2025-01-19,True
+25,CON-8787,2513542784980,Cascos Connelly Fuga,Color Negro,Ski,Cascos,Connelly,116000.0,43,2024-10-14,True
+26,JOB-4295,8412411824496,Wakeboards Jobe Vel,141 cm,Wake,Wakeboards,Jobe,150000.0,47,2024-11-22,True
+27,KOM-9479,3487401640054,Remo Komperdell Laboriosam,Talla XL,Sup,Remo,Komperdell,80000.0,19,2025-03-11,True
+28,POC-4770,4278680112801,Bastones POC Delectus,Color Blanco,Ski,Bastones,POC,52000.0,50,2025-03-24,True
+29,CON-2104,9826204505339,Tablas SUP Connelly Maxime,Talla M,Sup,Tablas SUP,Connelly,265000.0,9,2025-02-19,True
+30,HO-8953,5869232260256,Tablas SUP HO Corporis,Color Blanco,Sup,Tablas SUP,HO,185000.0,41,2025-03-13,True
+31,CON-8749,3421607337547,Remo Connelly Neque,Lente Solar,Sup,Remo,Connelly,98000.0,11,2025-03-21,True
+32,HO-7939,3036541458687,Remo HO Eum,Lente Solar,Sup,Remo,HO,167000.0,8,2024-12-16,True
+33,HL-2612,1429401965562,Bombas HL Aliquam,Talla M,Sup,Bombas,HL,151000.0,26,2025-02-07,True
+34,CON-4116,1693406088353,Cascos Connelly Quaerat,Talla XL,Ski,Cascos,Connelly,85000.0,16,2025-01-04,True
+35,CON-2235,5951484656489,Chalecos Connelly Atque,Talla XL,Wake,Chalecos,Connelly,252000.0,40,2024-11-06,True
+36,HL-9856,6629946804431,Antiparras HL Earum,Talla M,Ski,Antiparras,HL,292000.0,20,2025-01-04,True
+37,KOM-8886,9577738721480,Guantes Komperdell Repellendus,Color Blanco,Ski,Guantes,Komperdell,266000.0,8,2025-02-18,True
+38,POC-7396,9513433200370,Guantes POC Tempora,141 cm,Ski,Guantes,POC,282000.0,34,2025-02-08,True
+39,HL-8973,7693676320164,Chalecos HL Aut,Color Negro,Wake,Chalecos,HL,97000.0,18,2024-11-24,True
+40,HL-6138,8708317278892,Antiparras HL Dolorum,Talla M,Ski,Antiparras,HL,63000.0,35,2024-12-13,True
+41,CON-1931,9868727743485,Bombas Connelly Numquam,Talla L,Sup,Bombas,Connelly,263000.0,9,2025-01-15,True
+42,HL-4853,3471434558127,Tablas SUP HL Sunt,Lente Solar,Sup,Tablas SUP,HL,80000.0,41,2024-11-11,True
+43,JOB-2343,6231665876035,Antiparras Jobe Eveniet,Lente Solar,Ski,Antiparras,Jobe,214000.0,41,2025-03-23,True
+44,HO-4346,6909670546686,Remo HO Nihil,120 cm,Sup,Remo,HO,110000.0,30,2025-03-07,True
+45,KOM-6180,9373467065624,Bastones Komperdell Quisquam,Talla L,Ski,Bastones,Komperdell,52000.0,44,2025-03-25,True
+46,POC-9808,2980699016279,Tablas SUP POC Omnis,Color Blanco,Sup,Tablas SUP,POC,176000.0,13,2024-11-17,True
+47,CON-7054,4653755646410,Wakeboards Connelly Architecto,141 cm,Wake,Wakeboards,Connelly,89000.0,39,2025-01-12,True
+48,JOB-9666,8053100330920,Remo Jobe Ad,Talla M,Sup,Remo,Jobe,217000.0,40,2024-11-28,True
+49,POC-3200,7193745299129,Cuerdas POC Debitis,141 cm,Wake,Cuerdas,POC,79000.0,11,2024-12-12,True
+50,CON-5462,9049663193149,Bombas Connelly Corrupti,141 cm,Sup,Bombas,Connelly,201000.0,50,2025-03-27,True
